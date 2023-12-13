@@ -1,6 +1,5 @@
 {
   "name": "investmentCalucator",
-  "private": true,
   "version": "0.0.0",
   "homepage": "https://kiran-sm.github.io/investmentCalculator_React",
   "type": "module",
